@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdjts" alt="fdjts" /></a> </p>
 
-- 🔭 I’m currently working on [Escape-Runner](https://github.com/FDJTS/Escape-Runner)
+- 🔭 I’m currently working on [Escape-Runner](https://github.com/FDJTS/developerscommunity)
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **TS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FDJTS](https://github.com/FDJTS)
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fdjts1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fdjts1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fdjts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fdjts" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/FDJTS1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FDJTS1" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/dxZTWUvDMv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dxZTWUvDMv" height="30" width="40" /></a>
 </p>
 
