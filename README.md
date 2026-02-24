@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FDJTS</h1>
-<h3 align="center">I'm FDJTS Developer, Gamer & Youtuber Fixing codes(i think) and think outta the box(also not sure) IDK what shall i do in future</h3>
+<h3 align="center">I'm FDJTS Developer, Fixing codes(I think) and think outta the box(also not sure) IDK what shall I do in future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdjts&label=Profile%20views&color=0e75b6&style=flat" alt="fdjts" /> </p>
 
