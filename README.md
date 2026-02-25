@@ -1,5 +1,8 @@
-<div align="ltr" style="font-family: Georgia, serif;">
+<p align="ltr">
+  <img src="https://komarev.com/ghpvc/?username=fut0r&label=Profile%20Views&color=lightgrey&style=flat" />
+</p>
 
+<h1 align="center">fut0r</h1>
 <h1>fut0r</h1>
 
 <p>
