@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Georgia, serif;">
+<div align="ltr" style="font-family: Georgia, serif;">
 
 <h1>fut0r</h1>
 
