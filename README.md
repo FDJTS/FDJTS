@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">fut0r</h1>
-<h1>fut0r</h1>
 
 <p>
 I build software and explore systems.<br>
