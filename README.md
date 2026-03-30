@@ -19,7 +19,9 @@ Interested in performance, structure and understanding how things really work.
 <h2>Contact</h2>
 
 <p>
-mailto:fut0r@infiniware.bid
+<a href="mailto:fut0r@infiniware.bid">
+  fut0r@infiniware.bid
+</a>
 </p>
 
 </div>
