@@ -20,7 +20,7 @@ Interested in performance, structure and understanding how things really work.
 
 <p>
 <a href="mailto:fut0r@infiniware.bid">
-  fut0r@infiniware.bid
+  E-mail
 </a>
 </p>
 
